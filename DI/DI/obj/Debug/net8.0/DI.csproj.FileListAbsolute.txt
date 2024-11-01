@@ -1,0 +1,15 @@
+C:\Users\dorsettimartinez\source\repos\DI\DI\bin\Debug\net8.0\DI.exe
+C:\Users\dorsettimartinez\source\repos\DI\DI\bin\Debug\net8.0\DI.deps.json
+C:\Users\dorsettimartinez\source\repos\DI\DI\bin\Debug\net8.0\DI.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\DI\DI\bin\Debug\net8.0\DI.dll
+C:\Users\dorsettimartinez\source\repos\DI\DI\bin\Debug\net8.0\DI.pdb
+C:\Users\dorsettimartinez\source\repos\DI\DI\obj\Debug\net8.0\DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\DI\DI\obj\Debug\net8.0\DI.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\DI\DI\obj\Debug\net8.0\DI.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\DI\DI\obj\Debug\net8.0\DI.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\DI\DI\obj\Debug\net8.0\DI.sourcelink.json
+C:\Users\dorsettimartinez\source\repos\DI\DI\obj\Debug\net8.0\DI.dll
+C:\Users\dorsettimartinez\source\repos\DI\DI\obj\Debug\net8.0\refint\DI.dll
+C:\Users\dorsettimartinez\source\repos\DI\DI\obj\Debug\net8.0\DI.pdb
+C:\Users\dorsettimartinez\source\repos\DI\DI\obj\Debug\net8.0\DI.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\DI\DI\obj\Debug\net8.0\ref\DI.dll
